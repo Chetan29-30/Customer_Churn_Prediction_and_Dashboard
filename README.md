@@ -150,6 +150,21 @@ Customer_Churn_Prediction_and_Dashboard/
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/arpithatalwar">
+        <img src="https://avatars.githubusercontent.com/u/arpithatalwar?v=4" width="100px;" alt=""/><br />
+        <sub><b>🤗 Arpitha Talwar</b></sub>
+      </a>
+      <br />
+      <span><strong>Data Visualization & Analytics Specialist</strong></span><br/>
+      <span>Dashboard Development, Business Intelligence, Interactive Reports</span><br/>
+      <span>Active Contributor</span>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📝 Contributing
