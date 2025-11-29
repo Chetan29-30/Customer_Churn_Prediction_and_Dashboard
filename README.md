@@ -134,6 +134,22 @@ Customer_Churn_Prediction_and_Dashboard/
   </tr>
 </table>
 
+### Collaborators
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ushasri-kolla">
+        <img src="https://avatars.githubusercontent.com/u/ushasri-kolla?v=4" width="100px;" alt=""/><br />
+        <sub><b>📊 S.D.Ushasri Kolla</b></sub>
+      </a>
+      <br />
+      <span><strong>Data Science Contributor</strong></span><br/>
+      <span>Customer Segmentation, Sales Analysis, Data Visualization</span><br/>
+      <span>Active Contributor</span>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📝 Contributing
